@@ -25,3 +25,5 @@ So in conclusion, work and employment shape Australia’s economy through many m
 ## Song annotation - Six Pills
 I have chosen a song called “Six Pills”. It is a song that describes a person meeting an old man ‘a man old as oak and staff in hand sunken eyes, but gentle smile.’  who gives him a cure to all his problems in the form of a pill where it is said ‘One to numb the hurt, two to ease the pain, three to clear your mind, forget all the hate, take as I advised, not more than prescribed, several weeks ahead, you'll be fine again.’ However, as the time goes on with these magical pills he forgets what the old man says and starts to fight addiction to this “perfect cure.” 
 This is a sad song about how there is no perfect cure to things, and easily it can be addicting to rely on something we perceive as a cure.
+
+[![back to main](https://raw.githubusercontent.com/Squidly1408/Journals-Term-1-2024/main/Back%20to%20Main.png)](https://github.com/Squidly1408/Journals-Term-1-2024/blob/main/title.png)
