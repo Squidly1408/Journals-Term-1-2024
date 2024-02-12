@@ -7,6 +7,7 @@
  - fix sizing issues with portfolio
 
 # LTI Task - Wednesday Journal
+## part 1
 Seven tool that Indeed believes that will help me in my career search:
  - S.W.O.T analysis - Strengths (What skills do I have? What am I interested in? What sort of environment do I thrive in?), weaknesses (What subjects do I do poorly in? What am I scared of? What do I not enjoy?), Oppotunities (In what environment do I work the hardest? How am I best motivated?), Threats (Do I bring any risks to an organization? Why might a company not want to hire me?).
  - Career testing - A career test that measures your personality and skills and creates an outcome based on the results.
@@ -17,9 +18,17 @@ Seven tool that Indeed believes that will help me in my career search:
  - Career planning process - If you want to determine what career you should have and the steps it will take to get there.
 
 S.W.O.T analysis:
- - Strengths - Coding, trouble shooting, debugging, problem solving, working in a team, working by myself, understanding problems, understanding UI & UX practices, understanding computer fundamentals, PCB design, Understanding electronics manufacturing, CAD design.
- - Weaknesses - communication skills, talking
- -  
+ - Strengths - Coding, trouble shooting, debugging, problem solving, working in a team, working by myself, understanding problems, understanding UI & UX practices, understanding computer fundamentals, PCB design, Understanding electronics manufacturing, CAD design, finding solutions to problems on my own.
+ - Weaknesses - communication skills, communicating through verbal communication.
+ - Oppotunities - creating mentors, mentors, having connections to UON, having connections to Software design.
+ - Threats - Autism, ADHD, communication skills.
+
+Self Assessment:
+When I picture my future work place I picture working at a desk with an IDE open and surrounded by team members that I connect well with, I could be working at home or in an office, however I might travel for meetings. For my future job I want to be able to have a boss that is understanding yet pushes my to do my best, and continues to get me to learn new things while doing my job.
+# part 2
+
+
+
 
 
 # Journal Task - Friday Journal
