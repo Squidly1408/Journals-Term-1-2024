@@ -25,7 +25,6 @@ S.W.O.T analysis:
 
 Self Assessment:
 When I picture my future work place I picture working at a desk with an IDE open and surrounded by team members that I connect well with, I could be working at home or in an office, however I might travel for meetings. For my future job I want to be able to have a boss that is understanding yet pushes my to do my best, and continues to get me to learn new things while doing my job.
-# part 2
 
 
 
