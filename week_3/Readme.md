@@ -31,11 +31,6 @@ When I picture my future work place I picture working at a desk with an IDE open
 
 
 # Journal Task - Friday Journal - self reflection
-Today yet again I realised why I am ostracised from friends, groups and why I’m considered a weirdo. A sentence I said in confidence or at least implied was true. This has come back to haunt me, to make sure school isn’t a place where I can enjoy. I hate myself for having a big mouth, talking and for letting my composure go. 
-Earlier today I also found out that one of my friends hates me again which is ‘fun’, to be honest I don’t think I want to be friends with them anymore, they scare me and have a temper that goes way too quickly. They make being friends with them so incredibly hard especially when we leave school because they never reply to any conversation. 
-I just wish I was at home, which brings me to my next point, I hate my house or at least I hate how far away it is from school, walking 3.4 km home every day in the blistering heat, my parents tried to make it easier on me, but I stupidly agreed to just get a skateboard to help me which doesn’t help because the many cracks on my way home and the many steps, plus having a skateboard only works for so long before I have to go on a road which I am not proficient enough for. I’m going to move out as quickly as possible at this point, I’m just waiting until I can get a job that I can live off.
-I’m also off of one of my meds, the main one in my eyes which is greatly affecting how I feel, act, live, and so many other forms of my life.
-But at least I have my girlfriend, Kylie. Oh, how I love her and how she makes everything better or at least worth suffering for.
 
 
 [![back to main](https://raw.githubusercontent.com/Squidly1408/Journals-Term-1-2024/main/Back%20to%20Main.png)](https://github.com/Squidly1408/Journals-Term-1-2024/blob/main/Readme.md)
