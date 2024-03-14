@@ -32,5 +32,7 @@ When I picture my future work place I picture working at a desk with an IDE open
 
 # Journal Task - Friday Journal - self reflection
 
+I am working out my mqathematics via writing down my notes and equations in a maths book, this allows me to go back and read them whenever needed. Due to the high maths demand of my open foundation course, I need to constantly practice it and sometimes gather help with my mathematics through mentors, family, and teachers.w you think you could improve. 
+
 
 [![back to main](https://raw.githubusercontent.com/Squidly1408/Journals-Term-1-2024/main/Back%20to%20Main.png)](https://github.com/Squidly1408/Journals-Term-1-2024/blob/main/Readme.md)

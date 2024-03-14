@@ -45,7 +45,8 @@ With programs that inspire, instil pride and lead to a greater understanding of 
 ###How does SBS promote stronger engagement with countries and people from the Asia region?
 https://drupal.prod.sbs.com.au/sites/sbs.com.au.aboutus/files/media_release_sbs_to_serve_more_multicultural_australians_than_ever_investing_more_in_indo-pacific_and_first_nations_languages_1_march_2023.pdf
 
-# Journal Task - Friday Journal
+# Journal Task - Friday Journal - write about woman tha inspires you
+A woman that inspires me is Limor Fried, the founder of adafruit an electronics company based on creating electrical circuit boards for others to use in their projects. she inspires me through her resilience to create a company and he love for technology just like me.
 
 
 
