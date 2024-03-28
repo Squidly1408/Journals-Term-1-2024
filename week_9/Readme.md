@@ -527,8 +527,28 @@ To get professional advice on planning for retirement, see financial advice.
 For help with tax matters, see how tax applies to your super withdrawals on the Australian Taxation Office (ATO) website. Or see a tax professional.
 
 
-# Journal Task - Friday Journal
+# Book Review - Friday Journal
+The book I read this term was "General Science, I used to know that." It's an amazing book about all the things you may of forgotten about science in highschool, from biology to atoms, from E=mc^2 to the periodic table. I would recommend this book to any lover of science and how the world works/ it goes into depth and does it in a way thats enjoyable and easy to read. it has mutliple sections including physics, chemistry, biology. each with their own sub sections.
 
+Physics:
+energy and electricity
+forces
+waves, radiation and space
+
+Chemistry:
+the periodic table
+fuels, air, pollution
+metals
+organic chemistry
+
+biology:
+Human (and other) bodies
+cell biology
+evolution and enviroment ecology
+genetics
+
+This book covers a lot yet still remains an amazing, and easy to learn view into science.
+This is one of my favourite books because it is entertaining, while teaching me about my passion.
 
 
 [![back to main](https://raw.githubusercontent.com/Squidly1408/Journals-Term-1-2024/main/Back%20to%20Main.png)](https://github.com/Squidly1408/Journals-Term-1-2024/blob/main/Readme.md)
