@@ -14,7 +14,9 @@
 - Get someone to look over your resume and give you feedback, typically someone who is the field.
 - Goodluck and you got this
 
-# Journal Task - Friday Journal
+# Journal Task - Exhibition review
+##How did you feel about ur presentation?
+My presentation went well, However I would've liked to be more prepared and be less busy so I could run through it effectively 
 
 
 [![back to main](https://raw.githubusercontent.com/Squidly1408/Journals-Term-1-2024/main/Back%20to%20Main.png)](https://github.com/Squidly1408/Journals-Term-1-2024/blob/main/Readme.md)
