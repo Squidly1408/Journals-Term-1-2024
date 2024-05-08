@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/Squidly1408/Journals-Term-1-2024/main/title.png
 )
-# This is my journals for Term 1 of 2024. I will keep it updated as I go
+# This is my journals for Term 2 of 2024. I will keep it updated as I go
 
 ## links to journals
  - [Week 2](https://github.com/Squidly1408/Journals-Term-1-2024/blob/main/week_2/Readme.md)
