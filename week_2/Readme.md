@@ -38,6 +38,7 @@ The video is great and has a nice individualised nature to it, with a touch of h
 
 All this is good feedback however it brings up changes I need to make on my portfolio, I need to re-link all the external links like link to my autobiography and such. To do this I will need to open my code in the IDE (Intergrated Devlopment Enviroment) and then I will need find the files in my Onedrive and if they arnt in my Onedrive I need to add them to a section where they won't be deleted again.
 
+I Have just implemented these changes then uploaded them to My Github Pages.
 
 
 [![back to main](https://raw.githubusercontent.com/Squidly1408/Journals-Term-1-2024/main/Back%20to%20Main.png)](https://github.com/Squidly1408/Journals-Term-1-2024/blob/main/Readme.md)
